@@ -7,9 +7,9 @@
 This project is a cache repository for resources. It does not contain any actual source code, and is solely used for storing image assets referenced in my README documents. 
 
 ----
-# 01 崛起世界 / 🔥RisingWorld：
-##### ✅ 本此更新的语言包已实现对RisingWorld游戏界面的汉化：
-##### ✅ This update features comprehensive localization of the RisingWorld game interface, and includes a Chinese (zh) language pack:
+# 01 🔥RisingWorld：
+##### ✅ 本此更新RisingWorld的CN语言包：
+##### ✅ This update features comprehensive localization of the RisingWorld game interface, and includes a CN (zh) language pack:
 ![RisingWorld主界面汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001441_ArtsticH_Rising World.webp>)
 ![RisingWorld游戏内汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-A.webp>)
 
