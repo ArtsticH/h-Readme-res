@@ -11,7 +11,7 @@ This project is a cache repository for resources. It does not contain any actual
 ##### ✅ 本此更新RisingWorld的CN语言包：
 ##### ✅ This update features comprehensive localization of the RisingWorld game interface, and includes a CN (zh) language pack:
 ![RisingWorld主界面汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001441_ArtsticH_Rising World.webp>)
-![RisingWorld游戏内汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-A.webp>)
+![RisingWorld游戏内汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-T.webp>)
 
 仓库地址 / Repository URL：
 
