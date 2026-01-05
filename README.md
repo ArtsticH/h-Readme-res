@@ -10,7 +10,7 @@ This project is a cache repository for resources. It does not contain any actual
 # 01 崛起世界🔥RisingWorld：
 ##### ✅ 本此更新RisingWorld的CN语言包：
 ##### ✅ This update features comprehensive localization of the RisingWorld game interface, and includes a CN (zh) language pack:
- -  Files: RisingWorld__Zh-cn_Language-Kit__v2-0-260107 (fog Rising World v0.9.1)
+ -  Files: RisingWorld__Zh-cn_Language-Kit__v2-0-260107 (for Rising World v0.9.1)
 
 ![Nexusmods同步更新](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__bannerp>)
 ![Nexusmods关键词](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__Search.webp>)
