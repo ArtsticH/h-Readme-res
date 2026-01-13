@@ -21,10 +21,10 @@ This project is a cache repository for resources. It does not contain any actual
 
 ##### ✅ 新版效果演示
 
-![NodeAlignPro_v2_UI](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/ComfyUI_EasyKitHT_NodeAlignPro/doc/images/h_NodeAlignPro_v2__UI.webp>)
+![NodeAlignPro_v2_UI](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/ComfyUI_EasyKitHT_NodeAlignPro/docs/images/h_NodeAlignPro_v2__UI.webp>)
 **✅【260114更新】：新增ComfyUI菜单(现以集成到官方菜单页面)👇**
-![NodeAlignPro_v2_MENU](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/ComfyUI_EasyKitHT_NodeAlignPro/doc/images/hNodeAlignPro_v2__ComfyUI-mainMenu.webp>)
-![插件截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/ComfyUI_EasyKitHT_NodeAlignPro/doc/images/ComfyUI_EasyKitHT_NodeAlignPro_v2.webp>)
+![NodeAlignPro_v2_MENU](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/ComfyUI_EasyKitHT_NodeAlignPro/docs/images/hNodeAlignPro_v2__ComfyUI-mainMenu.webp>)
+![插件截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/ComfyUI_EasyKitHT_NodeAlignPro/docs/images/ComfyUI_EasyKitHT_NodeAlignPro_v2.webp>)
 
 ##### 如果觉得还可以，欢迎帮忙点下**⭐Star**，您的鼓励就是我最大的动力~
 
