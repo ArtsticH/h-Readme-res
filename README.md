@@ -35,7 +35,7 @@ This project is a cache repository for resources. It does not contain any actual
 ![Nexusmods同步更新](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260114-Snipaste_t013932_ArtsticH_RisingWorld_Zh-cn_Language_Artst.webp>)
 ![Nexusmods关键词](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__Search.webp>)
 ![RisingWorld主界面汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001441_ArtsticH_Rising World.webp>)
-![RisingWorld游戏内汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-T.webp>)
+![RisingWorld游戏内汉化截图](<https://raw.githubusercontent.com/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-T2.webp>)
 
 仓库地址 / Repository URL：
 
