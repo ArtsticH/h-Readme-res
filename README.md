@@ -25,7 +25,7 @@ This project is a cache repository for resources. It does not contain any actual
 
 **✅【260125更新】：新增ComfyUI菜单、新增i18n多语言适配 (现以集成到官方菜单页面)👇**
 
-![NodeAlignPro_v2_UI](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/ComfyUI_EasyKitHT_NodeAlignPro/h_NodeAlignPro_v2/h_NodeAlignPro_v2__04_WorkDemo.webp>)
+![NodeAlignPro_v2_UI](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/ComfyUI_EasyKitHT_NodeAlignPro/docs/images/v2/h_NodeAlignPro_v2__04_WorkDemo.webp>)
 
 ##### 如果觉得还可以，欢迎帮忙点下**⭐Star**，您的鼓励就是我最大的动力~
 
