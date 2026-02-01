@@ -15,9 +15,9 @@ This project is a cache repository for resources. It does not contain any actual
 原创基于节点的实时预览调色/取色组件，方便快速节点取色/上色。该插件旨在提升ComfyUI用户的工作效率，通过直观的界面和丰富的功能简化节点布局与颜色管理流程。
 
 #### ✅【260201更新】：新增自动主题色(自动跟随ComfyUI主题色)、重构ComfyUI菜单、优化i18n多语言适配👇
-![插件截图](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/ComfyUI_EasyKitHT_NodeAlignPro/docs/images/h_NodeAlignPro_v2__UI__Skin9.webp>)
+![插件截图](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/ComfyUI_EasyKitHT_NodeAlignPro/docs/images/h_NodeAlignPro_v2__UI__Skin9.webp>)
 
-![NodeAlignPro_v2_UI](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/ComfyUI_EasyKitHT_NodeAlignPro/web/h_NodeAlignPro_v2__UI__Mgr_banner.webp>)
+![NodeAlignPro_v2_UI](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/ComfyUI_EasyKitHT_NodeAlignPro/web/h_NodeAlignPro_v2__UI__Mgr_banner.webp>)
 ### 🔥 新版v2.1更新说明 (适配Node2.0)
  
 **新版v2.0全新适配i18n多语言配置文件，原生支持中文、English等语言（后续视情况还可扩展支持更多诸如俄语、法语等语言），对世界各地的国际友人更友好。**
@@ -25,7 +25,7 @@ This project is a cache repository for resources. It does not contain any actual
 
 **✅【260125更新】：新增ComfyUI菜单、新增i18n多语言适配 (现以集成到官方菜单页面)👇**
 
-![NodeAlignPro_v2_UI](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/ComfyUI_EasyKitHT_NodeAlignPro/docs/images/h_NodeAlignPro_v2__UIkit.webp>)
+![NodeAlignPro_v2_UI](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/ComfyUI_EasyKitHT_NodeAlignPro/docs/images/h_NodeAlignPro_v2__UIkit.webp>)
 
 ##### 如果觉得还可以，欢迎帮忙点下**⭐Star**，您的鼓励就是我最大的动力~
 
@@ -35,10 +35,10 @@ This project is a cache repository for resources. It does not contain any actual
 ##### ✅ This update features comprehensive localization of the RisingWorld game interface, and includes a CN (zh) language pack:
  -  Files: RisingWorld__Zh-cn_Language-Kit__v2-0-260111 (for Rising World v0.9.1)
 
-![Nexusmods同步更新](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260114-Snipaste_t013932_ArtsticH_RisingWorld_Zh-cn_Language_Artst.webp>)
-![Nexusmods关键词](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__Search.webp>)
-![RisingWorld主界面汉化截图](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001441_ArtsticH_Rising World.webp>)
-![RisingWorld游戏内汉化截图](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-T2.webp>)
+![Nexusmods同步更新](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/RisingWorld/doc/images/HT20260114-Snipaste_t013932_ArtsticH_RisingWorld_Zh-cn_Language_Artst.webp>)
+![Nexusmods关键词](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/RisingWorld/doc/images/HT20260106-RisingWorld__Zh-cn_Language-Kit__v2-0-260107__Search.webp>)
+![RisingWorld主界面汉化截图](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/RisingWorld/doc/images/HT20260104-Snipaste_t001441_ArtsticH_Rising World.webp>)
+![RisingWorld游戏内汉化截图](<https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/RisingWorld/doc/images/HT20260104-Snipaste_t001454_ArtsticH_Rising World-T2.webp>)
 
 仓库地址 / Repository URL：
 
@@ -59,11 +59,11 @@ git clone https://gitee.com/ArtsticH/RisingWorld.git
 ##### ❌UI需重新适配，版本待更新（源代码暂时移除）：
 ##### ❌UI Pending Re-adaptation, Version Update Pending (Source Code Temporarily Removed):
 
-![7DaysToDie游戏内汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/7DaysToDie/doc/images/20241011193957_1.webp)
-![7DaysToDie游戏内汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/7DaysToDie/doc/images/20241011200746_1.webp)
-![7DaysToDie主界面汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/7DaysToDie/doc/images/20241012011123_1.webp)
-![7DaysToDie游戏内汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/7DaysToDie/doc/images/20241012165559_1.webp)
-![7DaysToDie游戏内汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res/main/7DaysToDie/doc/images/20241012171738_1.webp)
+![7DaysToDie游戏内汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/7DaysToDie/doc/images/20241011193957_1.webp)
+![7DaysToDie游戏内汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/7DaysToDie/doc/images/20241011200746_1.webp)
+![7DaysToDie主界面汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/7DaysToDie/doc/images/20241012011123_1.webp)
+![7DaysToDie游戏内汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/7DaysToDie/doc/images/20241012165559_1.webp)
+![7DaysToDie游戏内汉化截图](https://cdn.jsdelivr.net/gh/ArtsticH/h-Readme-res@main/7DaysToDie/doc/images/20241012171738_1.webp)
 仓库地址 / Repository URL：
 
 ```bash
